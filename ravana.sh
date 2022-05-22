@@ -282,7 +282,7 @@ banner(){
        ╦═╗╔═╗╦  ╦╔═╗╔╗╔╔═╗
        ╠╦╝╠═╣╚╗╔╝╠═╣║║║╠═╣ \e[32;1m MADE BY PRINCE
        ╩╚═╩ ╩ ╚╝ ╩ ╩╝╚╝╩ ╩  \e[0;1m 
-       Youtube : https://is.gd/UQreTd                                              
+       Facebook : salman.khalid.376043                                              
 
 "
 }
